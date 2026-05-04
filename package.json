@@ -10,11 +10,9 @@
     ]
   },
   "scripts": {
-    "dev": "astro dev",
-    "build": "astro build",
-    "build-dev": "BUILD_DEV=true astro build",
-    "preview": "astro preview",
-    "astro": "astro"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
     "next": "14.0.0",
